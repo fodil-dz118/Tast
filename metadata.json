@@ -1,7 +1,0 @@
-{
-  "name": "Atlas Coins",
-  "description": "A secure digital wallet for Atlas Coins with ID-based transfers and transaction history.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
